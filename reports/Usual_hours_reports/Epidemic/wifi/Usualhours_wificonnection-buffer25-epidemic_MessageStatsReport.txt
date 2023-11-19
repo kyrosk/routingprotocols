@@ -1,0 +1,20 @@
+Message stats for scenario Usualhours_wificonnection-buffer25-epidemic
+sim_time: 14400.0000
+created: 265
+started: 9192
+relayed: 9190
+aborted: 1
+dropped: 7771
+removed: 0
+delivered: 33
+delivery_prob: 0.1245
+response_prob: 0.0000
+overhead_ratio: 277.4848
+latency_avg: 4926.6576
+latency_med: 4871.2000
+hopcount_avg: 4.5455
+hopcount_med: 4
+buffertime_avg: 822.9823
+buffertime_med: 3.3000
+rtt_avg: NaN
+rtt_med: NaN

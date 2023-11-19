@@ -1,0 +1,20 @@
+Message stats for scenario peakhours_wificonnection-buffer25-epidemic
+sim_time: 14400.0000
+created: 265
+started: 104321
+relayed: 104260
+aborted: 59
+dropped: 101090
+removed: 0
+delivered: 36
+delivery_prob: 0.1358
+response_prob: 0.0000
+overhead_ratio: 2895.1111
+latency_avg: 3060.5000
+latency_med: 3630.6000
+hopcount_avg: 8.2500
+hopcount_med: 5
+buffertime_avg: 354.5801
+buffertime_med: 32.7000
+rtt_avg: NaN
+rtt_med: NaN
